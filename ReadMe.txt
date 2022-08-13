@@ -35,3 +35,6 @@ def is_this_a_cat_or_a_dog(path):
 is_this_a_cat_or_a_dog("Your Image")
 plt.imshow(cv2.imread("Your Image"))
 ---
+---
+or simply run
+Try_model_here.ipynb
